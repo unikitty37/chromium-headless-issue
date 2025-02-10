@@ -9,22 +9,22 @@ importers:
   .:
     devDependencies:
       '@playwright/test':
-        specifier: ^1.49.1
+        specifier: 1.50.1
         version: 1.50.1
       '@sveltejs/adapter-auto':
-        specifier: ^4.0.0
+        specifier: 4.0.0
         version: 4.0.0(@sveltejs/kit@2.17.1(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.19.9)(vite@6.1.0))(svelte@5.19.9)(vite@6.1.0))
       '@sveltejs/kit':
-        specifier: ^2.16.0
+        specifier: 2.17.1
         version: 2.17.1(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.19.9)(vite@6.1.0))(svelte@5.19.9)(vite@6.1.0)
       '@sveltejs/vite-plugin-svelte':
-        specifier: ^5.0.0
+        specifier: 5.0.3
         version: 5.0.3(svelte@5.19.9)(vite@6.1.0)
       svelte:
-        specifier: ^5.0.0
+        specifier: 5.19.9
         version: 5.19.9
       vite:
-        specifier: ^6.0.0
+        specifier: 6.1.0
         version: 6.1.0
 
 packages:
